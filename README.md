@@ -70,4 +70,27 @@ Demonstra se houve atualizações no repositório local.
 
 ----------------------------------------------------------------
 
-***Add***
+***Add***  
+
+[![add.png](https://i.postimg.cc/FHWmbf1L/add.png)](https://postimg.cc/mPH0BgYL)  
+
+Após o comando git status, foi constatado que houve atualizações no  
+Readme.md.  
+Comando git add direciona o arquivo para a área de pré-commit.(staging).  
+
+-----------------------------------------------------------------
+
+***Commit***  
+
+[![commit.png](https://i.postimg.cc/pL9c7yq8/commit.png)](https://postimg.cc/v4svx8RH)  
+
+Comando git commit, direciona o arquivo do staging para o local repo.  
+Pronto para o push no repositório web.  
+
+------------------------------------------------------------------
+
+***Push***  
+
+
+
+
