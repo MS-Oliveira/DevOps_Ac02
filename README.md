@@ -91,6 +91,10 @@ Pronto para o push no repositório web.
 
 ***Push***  
 
+[![push.png](https://i.postimg.cc/XqGy3Mh2/push.png)](https://postimg.cc/30hwCq3p)  
 
+Comando git push envia as atualizações do repositório local para o remoto.  
+
+------------------------------------------------------------------
 
 
